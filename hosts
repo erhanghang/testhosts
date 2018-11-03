@@ -1,3 +1,4 @@
+#testhosts github
 192.168.2.114 nginx.test.com 
 192.168.2.114 nginx.test1.com 
 192.168.2.114 nginx.test2.com 
